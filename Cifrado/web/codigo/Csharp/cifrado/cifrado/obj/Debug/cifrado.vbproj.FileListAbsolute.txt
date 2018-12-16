@@ -1,0 +1,8 @@
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\bin\cifrado.dll
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\bin\cifrado.pdb
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\bin\cifrado.xml
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\obj\Debug\cifrado.Resources.resources
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\obj\Debug\cifrado.vbproj.GenerateResource.Cache
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\obj\Debug\cifrado.dll
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\obj\Debug\cifrado.xml
+c:\users\brendita\documents\visual studio 2012\Projects\cifrado\cifrado\obj\Debug\cifrado.pdb

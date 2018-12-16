@@ -1,0 +1,12 @@
+<?php
+require_once("./Texto/Cifrado.php");
+class Cifrador{
+	private $Plano;
+	function __construct($plano){
+    	$this->textoPlano = $plano;
+    }
+    function cifrar($metodo){
+    	return new Cifrado($metodo->cifrar($this->plano));
+	}
+}
+?>

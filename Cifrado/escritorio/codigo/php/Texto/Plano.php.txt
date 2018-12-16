@@ -1,0 +1,12 @@
+<?php
+class Plano {
+    public $Plano,$alfabeto;
+    function __construct($alfabeto,$plano){
+    	$this->plano = $plano;
+    	$this->alfabeto = $alfabeto;
+    }
+    function actualizacionTexto($nuevo){
+    	$this->plano = $nuevo;
+    }
+}
+?>

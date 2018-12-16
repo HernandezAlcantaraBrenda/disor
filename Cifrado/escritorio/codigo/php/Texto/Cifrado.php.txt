@@ -1,0 +1,9 @@
+<?php 
+class Cifrado{
+	
+	public $cifrado;
+	function __construct($Cifrado){
+		$this->cifrado = $cifrado;
+	}
+}
+?>
